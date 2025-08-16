@@ -2,7 +2,7 @@ Spansh
 
 Miniket 🐾
 
-Miniket es una aplicación diseñada para dueños de mascotas y veterinarios, con el objetivo de gestionar la información de las mascotas, recetas, recordatorios de medicación y llevar un registro de animales fallecidos.
+Miniket es una aplicación diseñada para dueños de mascotas y veterinarios, con el objetivo de gestionar la información de las mascotas, recetas, recordatorios de medicación  vacunas y llevar un registro de animales.
 
 Actualmente la app funciona, pero hay problemas que limitan su uso diario y su adopción general.
 
